@@ -2,4 +2,4 @@
 
 测试 jenkins 构建服务
 
-提交代码，自动进行构建
+通过设置webhook,git push完后自动在jenkins进行构建
